@@ -1,0 +1,9 @@
+{
+  "name": "ATARI SHERWAN PS4 HOST",
+  "short_name": "ATARI PS4",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050b15",
+  "theme_color": "#07111e"
+}
